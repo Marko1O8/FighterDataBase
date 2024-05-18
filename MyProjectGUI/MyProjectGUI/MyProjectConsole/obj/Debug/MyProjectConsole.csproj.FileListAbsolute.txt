@@ -1,0 +1,12 @@
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\obj\Debug\MyProjectConsole.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\obj\Debug\MyProjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\bin\Debug\MyProjectConsole.exe.config
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\bin\Debug\MyProjectConsole.exe
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\bin\Debug\MyProjectConsole.pdb
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\bin\Debug\FighterDB.dll
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\bin\Debug\FighterDB.pdb
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\bin\Debug\FighterDB.dll.config
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\obj\Debug\MyProjectConsole.csproj.CopyComplete
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\obj\Debug\MyProjectConsole.exe
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\obj\Debug\MyProjectConsole.pdb
+C:\Users\marko\source\repos\MyProjectGUI\MyProjectConsole\bin\Debug\System.Data.SQLite.dll

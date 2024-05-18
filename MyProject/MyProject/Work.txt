@@ -1,0 +1,17 @@
+CREATE TABLE Employee (
+   EmployNum       CHAR(5)   NOT NULL  ,-- 'Employee Number'
+   LastName        VARCHAR(15)         ,-- 'Employee Last Name'
+   FirstName       VARCHAR(15)         ,-- 'Employee First Name'
+   Phone           CHAR(10)            ,-- 'Employee Phone Number'
+   Email           VARCHAR(25)         ,-- 'Employee Email'
+   Pay             CHAR(6)             ,-- 'Employee Check'
+   StartDate       DATETIME            ,-- 'date of start day'
+   PRIMARY KEY(EmployNum)
+);
+
+CREATE TABLE Check (
+   Pay             CHAR(6)   NOT NULL  ,-- 'Employee Check'
+   Hours           CHAR(3)             ,-- 'Hours Worked'
+   Wage            CHAR(5)             ,-- 'Pay Per Hour'
+   PRIMARY KEY(Pay)
+);

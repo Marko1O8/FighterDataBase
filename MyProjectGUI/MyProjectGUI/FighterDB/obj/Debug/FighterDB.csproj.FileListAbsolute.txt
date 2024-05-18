@@ -1,0 +1,9 @@
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\obj\Debug\FighterDB.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\obj\Debug\FighterDB.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\bin\Debug\FighterDB.dll.config
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\bin\Debug\FighterDB.dll
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\bin\Debug\FighterDB.pdb
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\obj\Debug\FighterDB.csproj.CopyComplete
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\obj\Debug\FighterDB.dll
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\obj\Debug\FighterDB.pdb
+C:\Users\marko\source\repos\MyProjectGUI\FighterDB\bin\Debug\System.Data.SQLite.dll

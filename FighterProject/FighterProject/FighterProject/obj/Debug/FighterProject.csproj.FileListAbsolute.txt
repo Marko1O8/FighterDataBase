@@ -1,0 +1,9 @@
+C:\Users\marko\source\repos\FighterProject\FighterProject\bin\Debug\FighterProject.exe.config
+C:\Users\marko\source\repos\FighterProject\FighterProject\bin\Debug\FighterProject.exe
+C:\Users\marko\source\repos\FighterProject\FighterProject\bin\Debug\FighterProject.pdb
+C:\Users\marko\source\repos\FighterProject\FighterProject\obj\Debug\FighterProject.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\FighterProject\FighterProject\obj\Debug\FighterProject.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\FighterProject\FighterProject\obj\Debug\FighterProject.exe
+C:\Users\marko\source\repos\FighterProject\FighterProject\obj\Debug\FighterProject.pdb
+C:\Users\marko\source\repos\FighterProject\FighterProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\marko\source\repos\FighterProject\FighterProject\obj\Debug\FighterProject.csproj.CopyComplete
